@@ -15,9 +15,9 @@ account — we don't sell it or train on it.
 
 ## Early access
 
-PCD is in early-access testing. Leave your email at
-[portablecontext.ai](https://portablecontext.ai) and you'll hear from us when a
-spot opens. An invite comes with the full setup: your MCP endpoint for any client,
+PCD is in early access. Leave your email at
+[portablecontext.ai](https://portablecontext.ai) and we'll get you in soon. Your
+invite unlocks the full setup: your MCP endpoint for any client,
 a web dashboard with a live view of your containers — skills, knowledge, signals,
 and work — plus connection management and export, and the documentation.
 
